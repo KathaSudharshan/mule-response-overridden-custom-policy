@@ -99,6 +99,9 @@ Here,
 
 As per the above logic, overriding the result of API as "Hello World!" and status code as 201 irrespective of the response.
 
+![image](https://github.com/KathaSudharshan/mule-custom-policies/assets/138109855/1859a7dc-c04f-4104-b636-d658114878e3)
+
+
 ### Packaging a Policy ###
 After completion of custom policy implemenation, package a policy to deploy into exchange. Use below maven command to create a JAR file,
  ```bash
