@@ -1,0 +1,11 @@
+id: helloworld-custom-policy
+name: helloworld-custom-policy
+description: Helloworld Custom Policy
+category: Custom
+type: custom
+resourceLevelSupported: true
+encryptionSupported: false
+standalone: true
+requiredCharacteristics: []
+providedCharacteristics: []
+configuration: []
